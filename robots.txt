@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-kr4el0.naturaumana.ai/sitemap.xml
